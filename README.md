@@ -30,4 +30,4 @@ I'm passionate about using AI and machine learning to solve real-world problems.
 
 I'm always down to connect with other data science enthusiasts!
 
-**P.S.** I'm still a student at Bangkok University, but I'm eager to learn and grow. If you have any opportunities, hit me up!
+**P.S.** I'm still a third year student at Bangkok University major in Artificial intelligence engineering and data science, but I'm eager to learn and grow. If you have any opportunities, hit me up!
